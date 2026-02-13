@@ -7,7 +7,7 @@ A simple Next.js application for browsing microbes, with filtering and sorting c
 Install dependencies and start the dev server:
 
 ```bash
-npm install
+npm i
 npm run dev
 ```
 
