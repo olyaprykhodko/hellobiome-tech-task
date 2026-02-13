@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Inter;
 }
+
+@media (max-width: 640px) {
+  .microbes-list {
+    scrollbar-width: none;
+  }
+
+  .microbes-list::-webkit-scrollbar {
+    display: none;
+  }
+}
